@@ -42,18 +42,18 @@ Pastikan kamu sudah punya:
 
 **Fork** berarti kamu membuat salinan repo ini ke akun GitHub kamu sendiri. Penting: kamu harus fork, bukan clone langsung dari repo instruktur, karena GitHub Actions berjalan di repo masing-masing.
 
-1. Buka repo template di GitHub ([https://github.com/alfhisa/masak-bareng-gue-ci-cd-tutorial.git](https://github.com/alfhisa/masak-bareng-gue-ci-cd-tutorial.git))
+1. Buka repo template di GitHub ([https://github.com/alfhisa/masak-bareng-gue-ci-cd-tutorial-student.git](https://github.com/alfhisa/masak-bareng-gue-ci-cd-tutorial-student.git))
 2. Klik tombol **Fork** di pojok kanan atas
 3. Pilih akun GitHub kamu sebagai destination
 4. Klik **Create fork**
 
-Sekarang kamu punya repo sendiri di `github.com/USERNAME/masak-bareng-gue-ci-cd-tutorial`.
+Sekarang kamu punya repo sendiri di `github.com/USERNAME/masak-bareng-gue-ci-cd-tutorial-student`.
 
 Clone ke laptop:
 
 ```bash
-git clone https://github.com/USERNAME/masak-bareng-gue-ci-cd-tutorial.git
-cd masak-bareng-gue-ci-cd-tutorial
+git clone https://github.com/USERNAME/masak-bareng-gue-ci-cd-tutorial-student.git
+cd masak-bareng-gue-ci-cd-tutorial-student
 ```
 
 ### 1.2 Setup Virtual Environment
